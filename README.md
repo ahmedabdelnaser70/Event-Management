@@ -24,3 +24,10 @@ Run for a dev server. Navigate to `'https://localhost:7106/api/`. The applicatio
 
 ## Database Schema
 
+<p align="center">
+         <img  src="./imgs/image (5).png">
+</p>
+<hr/>
+<p align="center">
+         <img  src="./imgs/image (6).png">
+</p>
